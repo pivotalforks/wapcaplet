@@ -5,3 +5,4 @@ throw a friendly exception if you pass a parameter with an improper value to a f
 TestUploadedFile objects, and nil for all parameters.  For route parameters (used to generate the path) it will also
 accept ActiveRecord objects.
 
+Copyright (c) 2010 Pivotal Labs. This software is licensed under the MIT License.
